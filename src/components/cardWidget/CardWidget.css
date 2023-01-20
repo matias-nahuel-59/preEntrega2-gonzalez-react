@@ -1,0 +1,10 @@
+.cart-box{
+    display: flex;
+}
+.cart-box p {
+    text-align: center;
+    color: white;
+    background-color: purple;
+    padding: 0.1em 0.3em 0.1em 0.2em;
+    border-radius: 10px;
+}

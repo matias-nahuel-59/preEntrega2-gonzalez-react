@@ -1,0 +1,13 @@
+.footer {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    border: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer p{
+padding: 1rem 0;
+}
